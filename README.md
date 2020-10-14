@@ -1,6 +1,9 @@
  
  <p align="center">
-<img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/Home%20(3).png?raw=true" heigth="20%" width="60%">
+  <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/Happy.png?raw=true" heigth="20%" width="30%">
+</p>
+ <p align="center">
+  <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/Home%20(3).png?raw=true" heigth="20%" width="60%">
 </p>
 <br />
 
@@ -27,9 +30,11 @@ Web                        |
 ### Mobile
 
 <p align="center">
-  <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/Perfil.png?raw=true" heigth="20%" width="20%">
+  <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/splash.png?raw=true" heigth="20%" width="20%">
+  <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/Perfil.png?raw=true" heigth="10%" width="20%">
   <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/map.png?raw=true" heigth="20%" width="20%">
   <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/loc.png?raw=true" heigth="20%" width="20%">
+ 
 </p>
 <br />
 
