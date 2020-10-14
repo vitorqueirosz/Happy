@@ -44,6 +44,9 @@ This project was developed with the following technologies:
 - [TypeScript](https://github.com/Microsoft/TypeScript)
 - [React Native](https://github.com/facebook/react-native)
 - [Express](https://github.com/expressjs/express)
+- [TypeORM](https://typeorm.io/#/)
+- [Yup](https://github.com/jquense/yup#install)
+- [SQLite](https://www.sqlite.org/index.html)
 - [Expo](https://expo.io)
 - [React Navigation](https://reactnavigation.org/docs)
 </br>
@@ -68,6 +71,7 @@ You need to install [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg
 
 ## 📱 Run App
 
+    yarn dev - Start servidor
     yarn start
 </br>
 
