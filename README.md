@@ -31,7 +31,6 @@ Web                        |
 
 <p align="center">
   <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/splash.png?raw=true" heigth="20%" width="20%">
-  <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/Perfil.png?raw=true" heigth="10%" width="20%">
   <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/map.png?raw=true" heigth="20%" width="20%">
   <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/loc.png?raw=true" heigth="20%" width="20%">
  
