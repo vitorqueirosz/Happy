@@ -1,9 +1,9 @@
  
  <p align="center">
-  <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/Happy.png?raw=true" heigth="20%" width="25%">
+  <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/logo.png?raw=true" heigth="20%" width="25%">
 </p>
  <p align="center">
-  <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/Home%20(3).png?raw=true" heigth="20%" width="80%">
+  <img src="https://github.com/vitorqueirosz/Happy/blob/master/web/assets/Happy.png?raw=true" heigth="20%" width="80%">
 </p>
 <br />
 
