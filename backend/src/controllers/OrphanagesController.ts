@@ -43,12 +43,17 @@ export default {
             open_on_weekends } = request.body;
     
         const orphanageRepository = getRepository(Orphanage);
-    
+        console.log(request.files)
+        
         const requestImages = request.files as Express.Multer.File[];
 
         const images = requestImages.map(image => {
             return { path: image.filename }
         });
+
+        
+
+        console.log(request.body);
 
         const data = orphanageRepository.create({
             name, 
